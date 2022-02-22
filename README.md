@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @romainiac
-- 👀 I’m interested in programming and aninmation
+- 👀 I’m interested in programming and animation
 - 🌱 I’m currently learning react, blender, unity, and anything else that interests me 
 - 💞️ I’m looking to collaborate on any project! I have not contributed yet, but would love to
 
